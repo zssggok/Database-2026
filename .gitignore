@@ -1,0 +1,16 @@
+# 本地数据库凭据与配置
+.env
+.env.*
+!.env.example
+*.local.cnf
+.my.cnf
+.mylogin.cnf
+
+# 编辑器、缓存与系统临时文件
+.vscode/
+.idea/
+__pycache__/
+*.pyc
+*.log
+Thumbs.db
+Desktop.ini
